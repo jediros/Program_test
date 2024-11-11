@@ -1,0 +1,9 @@
+opencv-python==4.7.0  # OpenCV para Python
+numpy==1.26.4  # NumPy
+Pillow==9.4.0  # PIL (manejo de imágenes)
+matplotlib==3.9.1  # Gráficos
+pandas==2.2.2  # Procesamiento de datos
+ultralytics==8.2.73  # YOLOv8
+torch==2.4.0  # PyTorch para YOLOv8
+scikit-learn==1.3.0  # Opcional, si usas técnicas avanzadas de ML
+pyyaml==6.0  # Para manejar configuraciones YAML
